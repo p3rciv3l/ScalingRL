@@ -22,7 +22,7 @@ STATE_FILE = Path("sweep_rl_state.json")
 
 MODEL_FAMILIES = {
     "qwen3": "Qwen/Qwen3-8B",
-    "mistral": "mistralai/Ministral-3-8B-Base-2512",
+    "mistral": "mistralai/Ministral-8B-Base-2410",
 }
 
 
