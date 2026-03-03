@@ -98,6 +98,9 @@ EXPERIMENTS: list[Experiment] = [
     # LoRA r=8, both models
     Experiment("qwen3", "lora", lora_rank=8),
     Experiment("mistral", "lora", lora_rank=8),
+    # LoRA r=32, both models
+    Experiment("qwen3", "lora", lora_rank=32),
+    Experiment("mistral", "lora", lora_rank=32),
 ]
 
 
