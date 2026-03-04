@@ -1,0 +1,7 @@
+{
+  "checkpoint": "outputs/mistral_lora1",
+  "results": {
+    "gsm8k_pass_at_1": 0.0,
+    "gsm8k_greedy_accuracy": 0.0
+  }
+}

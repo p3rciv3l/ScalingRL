@@ -1,0 +1,16 @@
+{
+  "./outputs/mistral_lora8/gsm8k": {
+    "prefix_ratio": 0.6,
+    "rouge_l": 0.3924094854090546,
+    "em": 0.002274450341167551,
+    "answer_accuracy": 0.10841546626231995,
+    "num_problems": 1319
+  },
+  "./outputs/mistral_lora8/math500": {
+    "prefix_ratio": 0.6,
+    "rouge_l": 0.41341525271630514,
+    "em": 0.018,
+    "answer_accuracy": 0.142,
+    "num_problems": 500
+  }
+}
